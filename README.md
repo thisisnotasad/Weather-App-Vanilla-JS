@@ -18,3 +18,6 @@ A responsive weather application built with HTML, CSS, and JavaScript.
 ## How to Use
 1. Clone this repository
 2. Open index.html in your browser
+3. Enter your location in the search bar
+4. Click the search button to get the current weather data
+5. Enjoy the beautiful UI and weather information!
