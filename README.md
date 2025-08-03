@@ -6,7 +6,7 @@ A responsive weather application built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 ```
-https://thisisnotasad.github.io/Weather-App-Vanilla-JS/
+[https://thisisnotasad.github.io/Weather-App-Vanilla-JS/](https://thisisnotasad.github.io/Weather-App-Vanilla-JS/)
 ```
 
 ## Features
